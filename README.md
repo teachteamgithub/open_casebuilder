@@ -6,3 +6,10 @@ You can download the latest release from the GitHub page at http://openmi.ch/cas
 
 
 NOTE: The current release is designed to work with the Google Chrome free web browser. Other web browsers may not support full functionality for Open Case Builder. 
+
+
+
+
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
